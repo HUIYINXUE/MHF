@@ -127,3 +127,18 @@
 | klein9692/mistral_cve_1b_H3B10K | MHF(H3B10K)   |
 | klein9692/mistral_cve_1b_H4B16K | MHF(H4B16K)   |
 
+
+## How to Cite US
+
+@misc{xue2026multihashformerhashbasedgenerativelanguage,
+      title={MultiHashFormer: Hash-based Generative Language Models}, 
+      author={Huiyin Xue and Atsuki Yamaguchi and Nikolaos Aletras},
+      year={2026},
+      eprint={2606.28057},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.28057}, 
+}
+
+
+Vote on [Hugging Face](https://huggingface.co/papers/2606.28057) if you like our work!
